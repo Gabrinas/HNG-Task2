@@ -1,4 +1,3 @@
-
 let Info = {
 
   "Myname" : "Sobola Gabriel Oluwatobi",
@@ -8,4 +7,6 @@ let Info = {
   
   };
 
-console.log(`Hello World, this is ${Info.Myname} with ${Info.ID} using  ${Info.Language} for stage 2 task. ${Info.Email}`) 
+console.log(`Hello World, this is ${Info.Myname} with HNG ID ${Info.ID} and email ${Info.Email} using  ${Info.Language} for stage 2 task`)
+
+
